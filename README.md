@@ -297,11 +297,11 @@ yandex_mdb_mysql_user.serg: Creation complete after 21s [id=c9q0fpkbfsv8pbdpoi93
 
 Apply complete! Resources: 6 added, 0 changed, 0 destroyed.
 ```
-![1]()
+![1](https://github.com/smabramov/cloude-15-4/blob/3bab7c7f3c85b450950a3f3b6c1a1ab5ca1feb53/png/1.png)
 
-![2]()
+![2](https://github.com/smabramov/cloude-15-4/blob/3bab7c7f3c85b450950a3f3b6c1a1ab5ca1feb53/png/2.png)
 
-![3]()
+![3](https://github.com/smabramov/cloude-15-4/blob/3bab7c7f3c85b450950a3f3b6c1a1ab5ca1feb53/png/3.png)
 
 2. Настроить с помощью Terraform кластер Kubernetes.
 
@@ -541,7 +541,7 @@ NAME                 TYPE           CLUSTER-IP     EXTERNAL-IP       PORT(S)    
 kubernetes           ClusterIP      10.96.128.1    <none>            443/TCP        30m
 phpmyadmin-service   LoadBalancer   10.96.223.15   158.160.140.170   80:30682/TCP   52s
 ```
-![4]()
+![4](https://github.com/smabramov/cloude-15-4/blob/3bab7c7f3c85b450950a3f3b6c1a1ab5ca1feb53/png/4.png)
 
 Полезные документы:
 
